@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA77FC0793a514d148589B0f16a70FadFbe44360D",
+  "SCAN_LINK": "https://polygonscan.com/token/0xA77FC0793a514d148589B0f16a70FadFbe44360D",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Raffle Heroes",
+  "SYMBOL": "RH",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
